@@ -1,0 +1,22 @@
+#root {
+  height: 100%;
+  width: 100%;
+  min-height: 100vh;
+}
+
+.table {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  padding: 50px; 
+}
+
+.columnWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+h1 {
+  color: pink
+}
